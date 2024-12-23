@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "bbf9",
+      "title": "Front-End",
+      "content": "A front-end developer is a software professional who designs and builds the user interface (UI) and user experience (UX) of websites and web applications"
+    },
+    {
+      "id": "1ee9",
+      "title": "Java Developer",
+      "content": "A Java Developer is a specialized programmer who work on business applications, software, and websites along with software engineers and web developers. Java developer can work in following two domains:"
+    },
+    {
+      "id": "b4f3",
+      "title": "Python Devloper",
+      "content": "A Python developer is a professional who works with the Python programming language to build websites, applications, and other software. They often work on the server side of a project, writing logic and developing platforms."
+    }
+  ]
+}
